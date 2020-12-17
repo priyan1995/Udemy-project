@@ -1,0 +1,7 @@
+div.cleafix .pd-flex{
+    display: flex;
+}
+
+div.cleafix .left-side{
+    width: 70%;
+}
